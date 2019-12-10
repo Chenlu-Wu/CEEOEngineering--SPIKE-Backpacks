@@ -54,5 +54,5 @@ Choose one of the three options to program SPIKE Prime.
 >}
 >
 >helloWorld('<h1>Hello, World!</h1>');
-```
-and then use the exit() command to get back to the terminal prompt.
+>```
+>and then use the exit() command to get back to the terminal prompt.
