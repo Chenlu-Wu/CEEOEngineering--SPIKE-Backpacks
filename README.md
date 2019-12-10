@@ -41,3 +41,17 @@ Choose one of the three options to program SPIKE Prime.
 >Type "help()" for more information.
 >>>>
 >```
+
+#### OPTION 2 PYTHON IDE
+
+>Make sure you are running python 3.X. <br>
+>Type python3 in your Terminal or Console - you should get something like<br>
+>```
+>function helloWorld(str) {
+>	document.open();
+>	document.write(str);
+>	document.close();
+>}
+>
+>helloWorld('<h1>Hello, World!</h1>');
+>```
