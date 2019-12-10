@@ -6,11 +6,6 @@
 
 <p>To get started, download the latest code versions:</p>
 
-[![baidu]](http://baidu.com)  
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
+[![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/Codeversions.png)  ](https://drive.google.com/drive/folders/15DpZ5mj2ZChWe8YYptyO587tFtHo1Eoi "![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/Codeversions.png)  ")
 
-[![code]](https://drive.google.com/drive/folders/15DpZ5mj2ZChWe8YYptyO587tFtHo1Eoi)  
-[code]:https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/Codeversions.png
-
-[![labview]](https://drive.google.com/drive/folders/166k8Vc7ZjFBHzkrO7dHIHEkHC7gKq4Na)  
-[labview]:https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/LabviewStandalones.png
+![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/LabviewStandalones.png)
