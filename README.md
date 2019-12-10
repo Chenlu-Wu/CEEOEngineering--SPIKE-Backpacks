@@ -36,8 +36,8 @@ Choose one of the three options to program SPIKE Prime.
 >		2). in software - hit connect (after setting up the settings in settings)
 >
 >4. you should get: 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+>```
+>function test() {
+>  console.log("notice the blank line before this function?");
+>}
+>```
