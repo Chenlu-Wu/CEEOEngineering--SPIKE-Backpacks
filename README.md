@@ -7,6 +7,4 @@ Welcome to __MicroPython__ - a subset of python for small microprocessors. <br>
 To get started, download the latest code versions:<br>
 
 
-[![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/Codeversions.png)  ](https://drive.google.com/drive/folders/15DpZ5mj2ZChWe8YYptyO587tFtHo1Eoi "![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/Codeversions.png)  ")
-
-[![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/LabviewStandalones.png)](https://drive.google.com/drive/folders/166k8Vc7ZjFBHzkrO7dHIHEkHC7gKq4Na "![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/LabviewStandalones.png)")
+[![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/Codeversions.png)  ](https://drive.google.com/drive/folders/15DpZ5mj2ZChWe8YYptyO587tFtHo1Eoi "![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/Codeversions.png)  ")      [![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/LabviewStandalones.png)](https://drive.google.com/drive/folders/166k8Vc7ZjFBHzkrO7dHIHEkHC7gKq4Na "![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/LabviewStandalones.png)")
