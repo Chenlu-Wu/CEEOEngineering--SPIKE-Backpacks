@@ -21,13 +21,13 @@ Choose one of the three options to program SPIKE Prime.
 #### OPTION #1: TERMINAL IDE
 
 > 1. Grab a terminal emulator
-
+>
 >	1). CoolTerm works on all platforms, including Pi<br>
 >	2). Putty is good on windows<br>
 >	3). screen command in Terminal on a unix operating system<br>
 
 >2. Find your port
-
+>
 >	1). on mac, type ls /dev/tty.usbmodem<br>
 >	2). on a pc, look in your device manager under serial to see what serial ports you have connected<br>
 >	3). on pi, it will be something like ttyAMC0 - check in your /dev/ folder<br>
