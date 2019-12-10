@@ -31,3 +31,13 @@ Choose one of the three options to program SPIKE Prime.
 >		1). on mac, type ls /dev/tty.usbmodem<br>
 >		2). on a pc, look in your device manager under serial to see what serial ports you have connected<br>
 >		3). on pi, it will be something like ttyAMC0 - check in your /dev/ folder<br>
+>3. Connect up to the right port at 115200 baud (no parity, 8 data bits, and 1 stop bit)
+>		1).in Terminal - screen /dev/my_port_name 115200<br>
+>		2). in software - hit connect (after setting up the settings in settings)
+>
+>4. you should get: 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
