@@ -25,7 +25,7 @@ Choose one of the three options to program SPIKE Prime.
 >	1). CoolTerm works on all platforms, including Pi<br>
 >	2). Putty is good on windows<br>
 >	3). screen command in Terminal on a unix operating system<br>
-
+>
 >2. Find your port
 >
 >	1). on mac, type ls /dev/tty.usbmodem<br>
