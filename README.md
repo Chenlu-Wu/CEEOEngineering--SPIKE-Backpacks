@@ -6,4 +6,4 @@
 
 <p>To get started, download the latest code versions:</p>
 
-![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/Codeversions.png)  ![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/Codeversions.png)
+![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/Codeversions.png)        ![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/Codeversions.png)
