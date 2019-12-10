@@ -37,7 +37,7 @@ Choose one of the three options to program SPIKE Prime.
 >
 >4. you should get: 
 >```
->function test() {
->  console.log("notice the blank line before this function?");
->}
+>MicroPython v1.9.3-1767-g1a6b45250 on 2019-05-23; LEGO Technic Large Hub with STM32F413xx
+>Type "help()" for more information.
+>>>>
 >```
