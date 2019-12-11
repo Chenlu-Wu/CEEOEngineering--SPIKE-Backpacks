@@ -36,17 +36,17 @@ Choose one of the three options to program SPIKE Prime.
 >		2). in software - hit connect (after setting up the settings in settings)
 >
 >4. you should get: 
-```
+>```
 >MicroPython v1.9.3-1767-g1a6b45250 on 2019-05-23; LEGO Technic Large Hub with STM32F413xx
 >Type "help()" for more information.
 >>>>
-```
+>```
 
 #### OPTION 2 PYTHON IDE
 
 >Make sure you are running python 3.X. <br>
 >Type python3 in your Terminal or Console - you should get something like<br>
-```
+>```
 >function helloWorld(str) {
 >	document.open();
 >	document.write(str);
@@ -54,7 +54,8 @@ Choose one of the three options to program SPIKE Prime.
 >}
 >
 >helloWorld('<h1>Hello, World!</h1>');
-```
+>```
+>
 >and then use the exit() command to get back to the terminal prompt.
 >
 >Make sure that pySerial is installed by typing in the terminal prompt:
