@@ -78,9 +78,10 @@ Choose one of the three options to program SPIKE Prime.
 >		2. unzip the folder and drag the unzipped folder wherever you want to keep the app.
 >		3. run uPython (app or .exe) and you should get something like the image below:
 >			1). First select the COM port in the upper left.
->			2). click on the help button on the upper right and select your processor and look at all the <br>examples - copy one
+>			2). click on the help button on the upper right and select your processor and look at all the examples - copy one
 >			3). click the green RUN button on the bottom of the screen
 >			4). for more control, click on the REPL button and go to town.
->			5). The final button saves the file to your SPIKE Prime using the name in the upper left <br> (uPythonX in this case)
->	![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/upython.png)
+>			5). The final button saves the file to your SPIKE Prime using the name in the upper left (uPythonX in this case)
+>
+>![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/upython.png)
 
