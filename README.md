@@ -69,3 +69,6 @@ Choose one of the three options to program SPIKE Prime.
 >
 >![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/spiketerminal2.png)
 >
+#### OPTION #3: LABVIEW IDE
+>For this, you will need to download both the executable (Mac or PC only) and the >runtime engine (try running the  executable and it will walk you through what to do).<br>
+>Unfortunately you will also have to tell Windows or Mac that you trust this software as >well.<br>
