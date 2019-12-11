@@ -82,5 +82,5 @@ Choose one of the three options to program SPIKE Prime.
 >			3). click the green RUN button on the bottom of the screen<br>
 >			4). for more control, click on the REPL button and go to town.<br>
 >			5). The final button saves the file to your SPIKE Prime using the name in the upper left (uPythonX in this case)<br>
->				![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/upython.png)
+>	![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/upython.png)
 
