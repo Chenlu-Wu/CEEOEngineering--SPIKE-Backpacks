@@ -61,7 +61,11 @@ Choose one of the three options to program SPIKE Prime.
 >```
 >fredsComputer$ pip3 install pySerial
 >```
+>
 >Select a serial port and hit 'Connect'. If the Spike is not listed in the ports, make sure it is on and connected.
 >![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/spiketerminal.png)
+>
 >Now you are ready to go, just follow the directions.
+>
 >![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/spiketerminal2.png)
+>
