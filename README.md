@@ -40,7 +40,7 @@ Choose one of the three options to program SPIKE Prime.
 >MicroPython v1.9.3-1767-g1a6b45250 on 2019-05-23; LEGO Technic Large Hub with STM32F413xx
 >Type "help()" for more information.
 >>>>
->```
+```
 
 #### OPTION 2 PYTHON IDE
 
@@ -54,7 +54,7 @@ Choose one of the three options to program SPIKE Prime.
 >}
 >
 >helloWorld('<h1>Hello, World!</h1>');
->```
+```
 >and then use the exit() command to get back to the terminal prompt.
 >
 >Make sure that pySerial is installed by typing in the terminal prompt:
