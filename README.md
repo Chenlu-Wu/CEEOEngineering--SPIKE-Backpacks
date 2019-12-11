@@ -76,8 +76,8 @@ Choose one of the three options to program SPIKE Prime.
 >		1. download uPython.zip<br>
 >		2. unzip the folder and drag the unzipped folder wherever you want to keep the app.<br>
 >		3. run uPython (app or .exe) and you should get something like the image below:<br>
->				1).First select the COM port in the upper left.<br>
->				2).click on the help button on the upper right and select your processor and look at all the examples - copy one<br>
->				3). click the green RUN button on the bottom of the screen<br>
->				4). for more control, click on the REPL button and go to town.<br>
->				5). The final button saves the file to your SPIKE Prime using the name in the upper left (uPythonX in this case)<br>
+>			1).First select the COM port in the upper left.<br>
+>			2).click on the help button on the upper right and select your processor and look at all the examples - copy one<br>
+>			3). click the green RUN button on the bottom of the screen<br>
+>			4). for more control, click on the REPL button and go to town.<br>
+>			5). The final button saves the file to your SPIKE Prime using the name in the upper left (uPythonX in this case)<br>
