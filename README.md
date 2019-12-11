@@ -72,7 +72,7 @@ Choose one of the three options to program SPIKE Prime.
 #### OPTION #3: LABVIEW IDE
 >For this, you will need to download both the executable (Mac or PC only) and the >runtime engine (try running the  executable and it will walk you through what to do).<br>
 >
->Unfortunately you will also have to tell Windows or Mac that you trust this software as >well.<br>
+>Unfortunately you will also have to tell Windows or Mac that you trust this software as well.<br>
 >
 >		1. download uPython.zip<br>
 >		2. unzip the folder and drag the unzipped folder wherever you want to keep the app.<br>
