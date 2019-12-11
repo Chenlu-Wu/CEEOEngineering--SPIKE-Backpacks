@@ -86,3 +86,46 @@ Choose one of the three options to program SPIKE Prime.
 >
 >![](https://github.com/Chenlu-Wu/CEEOEngineering--SPIKE-Backpacks/raw/master/webpic/upython.png)
 
+
+### Step 3:
+Make sure your SPIKE Prime is on, you are connected in one of the three ways (Terminal, Python, or LabVIEW) and try running this  code:<br>
+
+```
+import hub
+hub.display.show(‘Tufts’)
+```
+Notice the “import” command - that pulls in a python library that lets you talk to SPIKE Prime. One of the more powerful attributes of Python is that you can test anything out before writing code in the REPL (read eval print loop). It will execute any python command - try typing 2 + 2 below and see what it says:
+
+```
+>>> 2 + 2
+```
+now try typing **hub.display.show(‘your name’) **- note that since you already imported hub above, it is already in memory. If it were not, you would get an error like: <br>
+
+Please connect up a SPIKE and get the right text<br>
+
+Now it is time to explore. Hub has a lot of functions - you can find out by looking at the documentation here or by just typing hub. and then hitting the TAB key in the REPL. That will show you all the different ways you can complete the command. See if you can read the acceleration.<br>
+
+The acceleration comes back as an array of values - so if you just want the X value, you can try hub.motion.accelerometer()[0] or nicer code would be to use variables like this:<br>
+
+```
+import hub
+
+accel = hub.motion.accelerometer()
+xAccel = accel[0]
+hub.display.show(xAccel)
+```
+You could also display all three accelerations using a loop. We will also import the library utime so that we can pause and give you time to read the number on the screen. Try this code:<br>
+```
+import hub,utime
+
+accel = hub.motion.accelerometer()
+for Acc in accel:
+     hub.display.show(str(Acc))
+     utime.sleep(0.8)
+```
+At this point a few things become important:<br>
+1.spaces - Python is all about indenting right - similar to brackets in other languages, indentation tells you what is inside the for loop and what is not.<br>
+2. when using the REPL, you will notice that when you indent, it no longer executes the line but rather waits for you to finish the lines for the for loop before executing (and the >>> is replaced by …). To finish the for loop, just hit return three times and the loop will be executed.
+
+Next, see if you can figure out what the code below does - and try executing it to see if you are right. Hint -you need a sensor on port B.<br>
+
