@@ -1,1 +1,0 @@
-This file enables the backpack to communicate bidirectional with the SPIKE Prime
